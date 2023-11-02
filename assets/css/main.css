@@ -3992,3 +3992,20 @@ input, select, textarea {
 		background-color: #1d242a;
 	}
 
+	.card-img-top{
+		height: 200px;
+	}
+
+	.card-section{
+		width: 100%;
+		padding: 5px;
+	}
+
+	.card-group{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		padding-top: 60px;
+		
+	}
